@@ -16,6 +16,6 @@
 ## ClawHub
 ClawHub是OpenClaw的官方技能注册表。
 
-> **注意：**
+> **注意**
 > 
 > ClawHub的质量问题非常严重。社区项目 awesome-openclaw-skills（31.4K Stars）从13,729个技能中只精选了5,494个，剩下的大部分是垃圾、重复或低质量内容。**安装任何第三方Skill前，务必查看源码。**
