@@ -29,4 +29,17 @@
 >
 > 但是 QClaw 就是OpenClaw包装出的产品。
 
-**各种具体的国产Claw选购指南可以翻阅橙皮书地35章节**
+**按使用场景推荐：**
+
+| 你的需求 | 首选 | 备选 | 理由 |
+|---|---|---|---|
+| 零基础想最快体验 | AutoClaw | MaxClaw | AutoClaw 一键安装、96 个预置 Skills、免费起步；MaxClaw 云端 18 秒部署、¥39/月起 |
+| 微信 / QQ 用户 | QClaw + ClawBot | WorkBuddy | QClaw 一键装好龙虾（已全量公测），ClawBot 从微信远程操控；WorkBuddy 自研免部署且企微整合好 |
+| 飞书生态 | ArkClaw | AutoClaw | 同为字节系，飞书深度适配；AutoClaw 也支持飞书一键接入 |
+| 预算敏感 | LobsterAI | CoPaw | 两者都免费开源，自带完整功能 |
+| 想完全控制和深度折腾 | 原版 OpenClaw | CoPaw | 开源社区最大，资源最丰富 |
+| 手机端 + 智能家居 | miclaw | — | 目前唯一的移动端方案（仅限小米 17 系列，封测中） |
+
+*选购提醒：大部分封装版产品（MaxClaw、KimiClaw等）会锁定默认模型，不能像原版OpenClaw那样自由切换。如果你对模型选择有强需求，优先考虑原版OpenClaw或支持多模型的产品（AutoClaw、WorkBuddy、LobsterAI）。另外，这些产品大多在2026年2-3月刚上线，功能和稳定性仍在快速迭代中。*
+
+**各种具体的国产Claw选购指南可以翻阅橙皮书第35章**
