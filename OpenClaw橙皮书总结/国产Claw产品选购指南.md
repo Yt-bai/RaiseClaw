@@ -28,3 +28,5 @@
 > WorkBuddy 的负责人在接受采访时明确表示「WorkBuddy 不是 OpenClaw」，技术路线完全自研。但它兼容ClawHub 的 Skills 生态，用户可以直接安装社区技能。这是一个有趣的策略：自研框架 + 借用生态。
 >
 > 但是 QClaw 就是OpenClaw包装出的产品。
+
+**各种具体的国产Claw选购指南可以翻阅橙皮书地35章节**
